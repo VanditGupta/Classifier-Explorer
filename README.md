@@ -1,5 +1,8 @@
 # Classifier Explorer: Interactive Machine Learning Visualization
 
+## Live Demo
+Experience the live application here: [Classifier Explorer](https://classifierlab.streamlit.app/)
+
 ## Description
 
 Classifier Explorer is an advanced machine learning tool designed to provide interactive visualization and analysis of various classification algorithms. Utilizing popular datasets, this application allows users to compare the performance of different classifiers like K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Random Forest. Built with Streamlit, it offers an intuitive platform for both educational and professional purposes, enabling a deeper understanding of machine learning concepts.
@@ -54,15 +57,13 @@ Classifier Explorer is an advanced machine learning tool designed to provide int
 4. View the performance of the classifier on the dataset.
 5. Repeat steps 2-4 to compare classifiers.
 
-## Screenshots
-
 
 ## Contributors
 
-Contributions are welcome! Please feel free to submit a Pull Request. Refer to the CONTRIBUTING.md file for contribution guidelines.
+Contributions are welcome! Please feel free to submit a Pull Request. Refer to the [CONTRIBUTING.md](https://github.com/VanditGupta/Streamlit_Practice/blob/main/CONTRIBUTING.MD) file for contribution guidelines.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VanditGupta/Streamlit_Practice/blob/main/LICENSE) file for details.
 
 ## Contact
 For any inquiries or contributions, please contact me at [vanditgupta22@gmail.com](mailto:vanditgupta22@gmail.com)
